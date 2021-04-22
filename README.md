@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/Kodluyoruz) Front-End Eğitimind
 ![Philadelphia's Magic Gardens. This place was so cool!](/img/patikaLogo.png "Philadelphia's Magic Gardens")
 # Installation
 ---
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. (https://github.com/Jerry-afk/kodluyoruzilkrepo.git)
  
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git 
 
